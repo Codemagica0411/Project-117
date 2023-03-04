@@ -1,0 +1,15 @@
+body {
+    background-color:aqua;
+}
+#score__span {
+    font-size: 25px;
+    margin-left:50px;
+}
+#timer_span {
+    font-size:25px;
+    float:right;
+    margin-right:50px
+}
+#sketch_to_draw {
+    color:green;
+}
